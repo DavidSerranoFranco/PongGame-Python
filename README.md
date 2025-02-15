@@ -33,8 +33,6 @@ The game features an **interactive menu** to select the game mode and the number
 
 🎮 **Pygame:** Library for game development in Python.
 
-🔍 **Object-Oriented Programming (OOP):** Modular and reusable functions.
-
 🧠 **AI Logic:** Simple algorithm for AI-controlled paddle movement.
 
 🎛️ **Event Handling:** Keyboard events for paddle control and menu navigation.
