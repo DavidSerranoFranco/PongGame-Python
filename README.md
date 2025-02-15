@@ -82,12 +82,12 @@ python pong.py
 ---
 
 ## 📸 **Screenshots**
-🖥️ **Main Menu**  
-🎮 **Two-Player Mode**  
-🤖 **Single-Player Mode (VS AI)**  
+🖥️ **Main Menu**
+![Pong Game screenshot](assets/menu1.png)&nbsp; ![Pong Game screenshot](assets/menu2.png)
+🎮 **Two-Player Mode or** 🤖 **Single-Player Mode (VS AI)**
+![Pong Game screenshot](assets/game-mode.png)
 🔄 **Restart Menu**
-
-_(You can add actual images/screenshots here)_
+![Pong Game screenshot](assets/restart-menu.png)
 
 ---
 
@@ -134,8 +134,8 @@ git push origin new-feature
 
 ## 👤 **Author**
 📌 **Name:** David Serrano Franco  
-💻 **GitHub:** https://github.com/DavidSerranoFranco 
-🔗 **LinkedIn:** https://www.linkedin.com/in/david-serrano-franco-77805025b/  
+💻 **GitHub:** github.com/DavidSerranoFranco 
+🔗 **LinkedIn:** linkedin.com/in/david-serrano-franco-77805025b/  
 
 ---
 
