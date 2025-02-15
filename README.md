@@ -82,12 +82,24 @@ python pong.py
 ---
 
 ## 📸 **Screenshots**
-🖥️ **Main Menu**
-![Pong Game screenshot](assets/menu1.png)&nbsp; ![Pong Game screenshot](assets/menu2.png)
-🎮 **Two-Player Mode or** 🤖 **Single-Player Mode (VS AI)**
-![Pong Game screenshot](assets/game-mode.png)
-🔄 **Restart Menu**
-![Pong Game screenshot](assets/restart-menu.png)
+
+### 🖥️ **Main Menu**
+<p align="center">
+  <img src="assets/menu1.png" width="400"> &nbsp;
+  <img src="assets/menu2.png" width="400">
+</p>
+
+### 🎮 **Two-Player Mode** / 🤖 **Single-Player Mode (VS AI)**
+<p align="center">
+  <img src="assets/game-mode.png" width="500">
+</p>
+
+### 🔄 **Restart Menu**
+<p align="center">
+  <img src="assets/restart-menu.png" width="400">
+</p>
+
+
 
 ---
 
@@ -134,8 +146,8 @@ git push origin new-feature
 
 ## 👤 **Author**
 📌 **Name:** David Serrano Franco  
-💻 **GitHub:** github.com/DavidSerranoFranco 
-🔗 **LinkedIn:** linkedin.com/in/david-serrano-franco-77805025b/  
+💻 **GitHub:** https://github.com/DavidSerranoFranco
+🔗 **LinkedIn:** https://www.linkedin.com/in/david-serrano-franco-77805025b/  
 
 ---
 
